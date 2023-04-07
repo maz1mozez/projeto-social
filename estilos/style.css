@@ -61,3 +61,21 @@ section#redes-sociais img:hover{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.534);
     transition: transform .5s, border 1s;
 }
+
+section#Ajuda{
+    text-align: right;
+}
+
+section#Ajuda img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 420px 10px 10px 10px;
+}
+
+section#Ajuda img:hover{
+    border: 2px solid rgba(255, 255, 255, 0.603);
+    transform: translate(-3px, -3px);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.534);
+    transition: transform .5s, border 1s;
+}
