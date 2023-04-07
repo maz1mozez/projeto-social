@@ -23,6 +23,8 @@ main {
     position: relative;
 }
 
+/*Telefone*/
+
 section#telefone{
     position: absolute;
     top: 50%;
@@ -43,6 +45,8 @@ iframe#tela{
     height: 471px;
 }
 
+/*Redes sociais*/
+
 section#redes-sociais{
     text-align: right;
 }
@@ -61,6 +65,8 @@ section#redes-sociais img:hover{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.534);
     transition: transform .5s, border 1s;
 }
+
+/*Easter egg*/
 
 section#Ajuda{
     text-align: right;
